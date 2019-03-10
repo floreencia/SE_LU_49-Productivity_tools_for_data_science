@@ -2,9 +2,13 @@
 
 
 Florencia Noriega
+
 SE Lecturer
+
 Email: florencia.noriega@code.berlin
+
 Slack: @code_florencia
+
 slack channel: #-se_lu_49-datasci
 
 ===== Abstract =====
